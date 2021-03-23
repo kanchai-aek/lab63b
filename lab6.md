@@ -52,6 +52,6 @@ Microcontroller ทำการกระจายสัญญาณ
 # คำถามหลังการทดลอง
 1. หลังจากกำหนดชื่อและรหัสผ่านของ WiFi แล้วต้องทำขั้นตอนใดต่อ
 
-![alt text](https://cdn.discordapp.com/attachments/823924425152921641/823935840170410004/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/823924425152921641/823935565329203221/unknown.png)
 
 คำตอบ ใส่ local ip, gateway และ subnet ของตัวMicrocontroller
