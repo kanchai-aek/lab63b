@@ -18,7 +18,8 @@
 
 ## วิธีทำการทดลอง
 ![alt text](https://cdn.discordapp.com/attachments/337849529179308033/823922152733540382/gjSOE6qIXgFuE-hf5rXb_IFxGX19ku9OLWzDXV7PYDX8zq3HWiBT_mAigS4qeeFBk4PJ9FDXfgYFujvkIxoh-b5m7WauMw.png)
-1. เปิด command line แล้วพิมพ์ (netsh wlan set hostednetwork mode=allow ssid=Name key=Password)
+![alt text](https://media.discordapp.net/attachments/823924425152921641/823924442869792768/unknown.png?width=948&height=670)
+1. เปิดการทดลองที่ 5 แล้วทำการใส่ชี่อพร้อมรหัสของ WiFi 
 ![alt text]()
 2. ตั้งค่าภายใน Computer เปิดตัวแชร์สัญญาณ
 ![alt text]()
