@@ -15,9 +15,11 @@
 2. https://lovecodingblogger.blogspot.com/2018/01/web-server-sensor-1.html
 
 ## วิธีทำการทดลอง
-(https://www.google.com/url?sa=i&url=http%3A%2F%2F99thai.com%2Fdata%2Fup_show.php%3Fid%3D1522510957%26web%3Depost&psig=AOvVaw39k6TLMVTOoIbLP9tn_Vhq&ust=1616594665147000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCc5MrKxu8CFQAAAAAdAAAAABAP)
+![alt text](https://cdn.discordapp.com/attachments/337849529179308033/823922152733540382/gjSOE6qIXgFuE-hf5rXb_IFxGX19ku9OLWzDXV7PYDX8zq3HWiBT_mAigS4qeeFBk4PJ9FDXfgYFujvkIxoh-b5m7WauMw.png)
 1. เปิด command line แล้วพิมพ์ (netsh wlan set hostednetwork mode=allow ssid=Name key=Password)
-2. 
-3. 
+![alt text]()
+2. ตั้งค่าภายใน Computer เปิดตัวแชร์สัญญาณ
+![alt text]()
+3. เปิด Arduno เพื่อทำการ coding Node MCU ให้เชื่อกับ WiFi 
 4. 
 5. 
