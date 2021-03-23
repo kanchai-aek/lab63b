@@ -39,6 +39,6 @@
 ## คำถามหลังการทดลอง
 1. ในการทดลองนี้ใช้ microcontroller ตัวใด 
 
-คำตอบ ESP01 
 ![alt text](https://cdn.discordapp.com/attachments/823924425152921641/823931532249923634/6418-esp8266_esp-01_esp01_E0B984E0B8A3E0B989E0B8AAE0B8B2E0B8A2_serial_wifi_E0B982E0B8A1E0B894E0B8B9E.png)
+คำตอบ ESP01 
 
