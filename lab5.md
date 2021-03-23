@@ -1,7 +1,7 @@
 # การทดลองที่ 5 การเขียนโปรแกรมเชื่อมต่อไวไฟและเว็บเซิร์ฟเวอร์
 
 ## วัตถุประสงค์
-1. เพื่อศกษาการรับสัญญาณ WiFi
+1. เพื่อศึกษาการรับสัญญาณ WiFi
 2. เพื่อศึกษาการ Coding
 
 ## อุปกรณ์ที่ใช้
@@ -15,7 +15,7 @@
 2. https://lovecodingblogger.blogspot.com/2018/01/web-server-sensor-1.html
 
 ## วิธีทำการทดลอง
-![alt text](https://www.google.com/url?sa=i&url=http%3A%2F%2F99thai.com%2Fdata%2Fup_show.php%3Fid%3D1522510957%26web%3Depost&psig=AOvVaw39k6TLMVTOoIbLP9tn_Vhq&ust=1616594665147000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCc5MrKxu8CFQAAAAAdAAAAABAP)
+(https://www.google.com/url?sa=i&url=http%3A%2F%2F99thai.com%2Fdata%2Fup_show.php%3Fid%3D1522510957%26web%3Depost&psig=AOvVaw39k6TLMVTOoIbLP9tn_Vhq&ust=1616594665147000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCc5MrKxu8CFQAAAAAdAAAAABAP)
 1. เปิด command line แล้วพิมพ์ (netsh wlan set hostednetwork mode=allow ssid=Name key=Password)
 2. 
 3. 
