@@ -1,17 +1,17 @@
-#การทดลองที่3
+# การทดลองที่3
 
-##วัตถุประสงค์
+## วัตถุประสงค์
 1.เพื่อศึกษาการใช้โปรแกรมเอ้าพุทสัญญาณดิจิทัลบนmicrocontroller
 
-##อุปกรณ์การทดลอง
+## อุปกรณ์การทดลอง
 1.microcontroller ESP-01
 2.USB serial port
 3.Adepterโดย port 0ต่อกับเส้นสีขาว
 
-##ศึกษาข้อมูลเบื้องต้น
+## กษาข้อมูลเบื้องต้น
 1.https://www.youtube.com/watch?v=CCnN1WJsXQY
 
-##วิธีการทำการทดลอง
+## วิธีการทำการทดลอง
 ![alt text](https://cdn.discordapp.com/attachments/337849529179308033/823923037723426836/unknown.png)
 1.เสียบAdepterเข้ากับUSB serial port
 ![alt text](https://cdn.discordapp.com/attachments/337849529179308033/823923153708908584/unknown.png)
@@ -23,7 +23,7 @@
 ![alt text](https://cdn.discordapp.com/attachments/337849529179308033/823923483230732298/unknown.png)
 5พอโปรแกรมuploadเสร็จก็พิม pio device monitor
 
-##การบันทึกผลการทดลอง
+## การบันทึกผลการทดลอง
 ตอนonไฟสีเขียวจะสว่างและไฟสีฟ้าจะดับ
 ![alt text](https://cdn.discordapp.com/attachments/823924425152921641/823925611500011570/unknown.png)
 ตอนoffไฟสีฟ้าจะสว่างและไฟสีเขียวจะดับ
@@ -32,7 +32,7 @@
 จากการทดลองพบว่าทุกๆครึ่งวินาทีโปรแกรมจะแสดงเอ้าพุทออกมาเป็นonสลับกับoffแล้วไปดูที่LEDที่ต่อกับAdepterก็จะพบว่าที่port 0 LEDสีเขียวก็จะเปล่งแสงออกมาตอนที่เป็นonและจะดับเมื่อตอนเป็นoff ส่วนสีน้ำเงินก็ทำงาสลับกับสีเขียวสลับแบบนี้ไปเรื่อยๆ
 ![alt text](https://cdn.discordapp.com/attachments/823924425152921641/823924908979126292/unknown.png)
 
-##คำถามการทดลอง
+## คำถามการทดลอง
 1. เพราะเหตุใด LED ถึงสลับกันติด
 
 ![alt text](https://cdn.discordapp.com/attachments/823924425152921641/823925611500011570/unknown.png)
